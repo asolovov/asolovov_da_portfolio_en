@@ -10,21 +10,27 @@ Two types of data are available for each apartment for sale. The first ones are 
 - seaborn
 
 ### Reserch Plan:
-1. Introduction to data
-2. Data preprocessing
- - Deleting columns
- - Gaps
- - Changing the data types
- - Duplicates
- - Conclusion
-3. Adding data
-4. Exploratory data analysis
- - Statistical outliers processing
- - Indicators research
- - The study of price influencing factors
- - Top-10 cities research
- - St. Petersburg city center research
-5. Research results
+- 1  Introduction to data
+- 2  Data preprocessing
+  - 2.1  Deleting columns
+  - 2.2  Gaps
+  - 2.3  Changing the data types
+  - 2.4  Duplicates
+- 3  Adding data
+- 4  Exploratory data analysis
+  - 4.1  Statistical outliers processing
+  - 4.2  Indicators research
+    - 4.2.1  Price
+    - 4.2.2  Area
+    - 4.2.3  Rooms
+    - 4.2.4  Ceiling height
+  - 4.3  The study of price influencing factors
+  - 4.4  Top-10 cities research
+  - 4.5  St. Petersburg city center research
+    - 4.5.1  Data Sample
+    - 4.5.2  Parameters research
+    - 4.5.3  Factors research
+- 5  Research results
 
 ### Summary:
 Values are defined for the following parameters:
